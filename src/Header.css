@@ -1,0 +1,12 @@
+.header
+{
+    display: block;
+    background-color: #C3D825;
+    font: Cartograph CF;
+    font-size: 60px;
+    color: #323232;
+    height: 15vh;
+    text-align: center;
+    padding: 10px;
+
+}
